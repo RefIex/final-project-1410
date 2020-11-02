@@ -1,0 +1,20 @@
+# Ignore classpath files in Java projects for all subdirectories
+**/.classpath
+
+# Ignore .project files in Java projects for all subdirectories
+**/.project
+
+# Ignore .settings/ folders in Java projects for all subdirectories
+**/.settings/
+
+# Ignore /bin/ folders in Java projects forr all subdirectories
+**/bin/
+
+# Ignore .idea/ folders in Java projects for all subdirectories
+**/.idea/
+
+# Ignore out/ folders in Java projects for all subdirectories
+**/out/
+
+# Ignore .iml files in Java projects for all subdirectories
+**/*.iml

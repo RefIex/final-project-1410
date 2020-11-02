@@ -1,0 +1,6 @@
+BananaSplit_7.50_Delectible soft serve ice cream in a bowl, nestled between sweet banana slices and covered with pineapple, strawberry and chocolate. CONTAINS MILK- 675 cal
+VanillaCone_1.50_World famous soft serve on a crispy cone. CONTAINS MILK, WHEAT - 220 cal.
+ChocolateCone_2.00_Same World famous soft serve on a crispy cone, but dipped in a crunchy chocolate coating. CONTAINS MILK, WHEAT - 320 cal
+SprinkleSundae_3.20_Same World famous soft serve in a cup, topped with colorful sprinkles. CONTAINS MILK - 380 cal
+HotFudgeSundae_4.00_Same World famous soft serve in a cup, topped with delicious hot fudge. CONTAINS MILK - 420 cal
+StrawberrySundae_4.00_Same World famous soft serve in a cup, topped with sweet strawberry topping. CONTAINS MILK - 390 cal
